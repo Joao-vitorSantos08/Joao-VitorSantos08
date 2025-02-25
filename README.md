@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/> 
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Vitor+Santos+Souza;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+João+Vitor+Santos+Souza+👋;Eu+estudo+web+designer+front-end+no+Senai+💻;Seja+Bem-Vindo!+🤝)](https://git.io/typing-svg) -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+João+Vitor+Santos+Souza+👋;I+study+web+design+front-end+at+Senai+💻;BE+Welcome!+🤝)](https://git.io/typing-svg)
 
