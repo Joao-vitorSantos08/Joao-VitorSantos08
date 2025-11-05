@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+João+Vitor+Santos+Souza+👋;I+study+Java+at+SENAI+Santo+Amaro+-+Suíço-Brasileira+💻;BE+Welcome!+🤝)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+João+Vitor+Santos+Souza+👋;I+study+Databases+for+Data+Size+at+SENAI+Santo+Amaro+-+Suíço-Brasileira+💻;BE+Welcome!+🤝)](https://git.io/typing-svg)
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joao-vitorSantos08&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Vitor Santos github stats"/> 
@@ -15,7 +16,7 @@
 </p>
 
 ### 📚 Currently studying:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Banco de Dados para Data Size](https://img.shields.io/badge/-Banco%20de%20Dados%20para%20Data%20Size-0D1117?style=for-the-badge&logo=database&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### ✅ Previously studied:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=Html5&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -24,6 +25,8 @@
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117&textColor=0D1117)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=Tailwind-CSS&labelColor=0D1117&textColor=0D1117)
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
 
 
