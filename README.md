@@ -15,6 +15,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Joao-VitorSantos08&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-souza-844306360/)
+
+</div>
+
+
 ### 📚 Currently studying:
 ![Banco de Dados para Data Size](https://img.shields.io/badge/-Banco%20de%20Dados%20para%20Data%20Size-0D1117?style=for-the-badge&logo=database&labelColor=0D1117&textColor=0D1117)&nbsp;
 
