@@ -24,6 +24,7 @@
 
 ### 📚 Currently studying:
 ![Banco de Dados para Data Size](https://img.shields.io/badge/-Banco%20de%20Dados%20para%20Data%20Size-0D1117?style=for-the-badge&logo=database&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)
 
 ### ✅ Previously studied:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=Html5&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -42,6 +43,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=eclipseide&labelColor=0D1117&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)
+![Power BI Desktop](https://img.shields.io/badge/-Power%20BI%20Desktop-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
 
