@@ -11,9 +11,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joao-VitorSantos08&bg_color=000000&color=4169E1&line=4169E1&point=088c1a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- <p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Joao-VitorSantos08&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 
 <div align="center">
   
