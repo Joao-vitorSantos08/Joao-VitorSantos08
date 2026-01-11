@@ -11,15 +11,21 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joao-VitorSantos08&bg_color=000000&color=4169E1&line=4169E1&point=088c1a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Joao-VitorSantos08&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p> -->
+
+
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=Joao-VitorSantos08&style=flat-square&color=1E90FF&label=Profile%20Views&label_color=FFFFFF" />
+  </p> 
+</div>
+
 
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-souza-844306360/)
 
 </div>
+
 
 
 ### 📚 Currently studying:
