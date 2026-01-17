@@ -36,10 +36,13 @@
 
 
 ### 📚 Currently studying:
-![Banco de Dados para Data Size](https://img.shields.io/badge/-Banco%20de%20Dados%20para%20Data%20Size-0D1117?style=for-the-badge&logo=database&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Desenvolvimento Web MVC](https://img.shields.io/badge/-Web%20MVC-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)
+
+
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)
 
 ### ✅ Previously studied:
+![Banco de Dados](https://img.shields.io/badge/-Banco%20de%20Dados-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=Html5&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117&textColor=0D1117)&nbsp;
