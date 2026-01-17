@@ -1,13 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=750&lines=Hi!+I'm+João+Vitor+Santos+Souza+👋;Studying+Databases+for+Data+Size+at+SENAI+💻;Welcome!+🤝)](https://git.io/typing-svg)
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+João+Vitor+Santos+Souza+👋;Web+Developer+using+MVC+Architecture+🌐;Studying+at+SENAI+Suíço-Brasileiro+🏫;Welcome!+🤝"
+    alt="Typing SVG"
+  />
+</p>
 
 
-<!-- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joao-vitorSantos08&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Vitor Santos github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-vitorSantos08&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div> -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joao-vitorSantos08&theme=github_dark" height="220" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joao-vitorSantos08&theme=github_dark" height="220" />
+</div>
 
+<br />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joao-VitorSantos08&bg_color=000000&color=4169E1&line=4169E1&point=088c1a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
