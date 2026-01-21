@@ -8,11 +8,17 @@
 </p>
 
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joao-vitorSantos08&theme=github_dark" height="220" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joao-vitorSantos08&theme=github_dark" height="220" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joao-vitorSantos08&theme=github_dark"
+    width="420"
+    height="200" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-vitorSantos08&layout=compact&langs_count=4&theme=transparent"
+    width="420"
+    height="200"/>
 </div>
+
 
 <br />
 
