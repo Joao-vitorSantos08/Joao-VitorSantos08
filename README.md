@@ -1,6 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=4169E1&section=header&reversal=true&fontAlignY=68?type=waving&color=4169E1&height=120&section=footer"/>
 <p align="center">
+  
   <img
     src="https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+João+Vitor+Santos+Souza+👋;Web+Developer+using+MVC+Architecture+🌐;Studying+at+SENAI+Suíço-Brasileiro+🏫;Welcome!+🤝"
     alt="Typing SVG"
@@ -8,15 +9,18 @@
 </p>
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joao-vitorSantos08&theme=github_dark"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joao-vitorSantos08&theme=holi"
     width="420"
-    height="200" />
+    height="200"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-vitorSantos08&layout=compact&langs_count=4&theme=transparent"
     width="420"
-    height="200"/>
+    height="200"
+  />
 </div>
 
 
