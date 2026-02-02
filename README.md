@@ -13,13 +13,13 @@
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joao-vitorSantos08&theme=holi"
     width="420"
-    height="200"
+    height="150"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-vitorSantos08&layout=compact&langs_count=4&theme=transparent"
     width="400"
-    height="200"
+    height="150"
   />
 </div>
 
