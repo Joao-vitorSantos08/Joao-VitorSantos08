@@ -17,11 +17,12 @@
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-vitorSantos08&layout=compact&langs_count=4&theme=transparent"
-    width="400"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joao-vitorSantos08&theme=holi"
+    width="420"
     height="200"
   />
 </div>
+
 
 
 <br />
