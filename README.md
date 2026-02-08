@@ -15,7 +15,7 @@
     width="420"
     height="200"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joao-vitorSantos08&theme=holi"
     width="420"
