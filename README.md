@@ -8,26 +8,32 @@
   />
 </p>
 
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joao-vitorSantos08&theme=holi" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joao-vitorSantos08&theme=holi" />
-    </td>
-  </tr>
-</table>
-
-
+<p align="center">
+  <a href="https://github.com/Joao-VitorSantos08">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joao-VitorSantos08&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" 
+      alt="Joao-VitorSantos08's GitHub Stats" 
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço entre os gráficos -->
+  <a href="https://github.com/Joao-VitorSantos08">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joao-VitorSantos08&langs_count=8&layout=compact&theme=radical&border_radius=10" 
+      alt="Top Languages" 
+    />
+  </a>
+</p>
 
 
 <br />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joao-VitorSantos08&bg_color=000000&color=4169E1&line=4169E1&point=088c1a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Joao-VitorSantos08&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Joao-VitorSantos08's GitHub Trophies" />
+</p>
 
 <div align="center">
   <p align="center">
