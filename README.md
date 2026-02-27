@@ -8,23 +8,27 @@
   />
 </p>
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+
+  
   <a href="https://github.com/Joao-VitorSantos08">
     <img 
-      height="180em" 
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joao-VitorSantos08&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" 
       alt="Joao-VitorSantos08's GitHub Stats" 
+      style="height:180px; max-width:100%;"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
+
   <a href="https://github.com/Joao-VitorSantos08">
     <img 
-      height="180em" 
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joao-VitorSantos08&langs_count=8&layout=compact&theme=radical&border_radius=10" 
       alt="Top Languages" 
+      style="height:180px; max-width:100%;"
     />
   </a>
-</p>
+
+</div>
 
 
 <br />
