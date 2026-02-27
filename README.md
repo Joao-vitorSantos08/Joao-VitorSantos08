@@ -16,7 +16,7 @@
       alt="Joao-VitorSantos08's GitHub Stats" 
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço entre os gráficos -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Joao-VitorSantos08">
     <img 
       height="180em" 
