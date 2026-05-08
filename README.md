@@ -53,8 +53,7 @@
 
 
 ### 📚 Currently studying:
-![Spring MVC]
-
+![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)
 
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)
 
