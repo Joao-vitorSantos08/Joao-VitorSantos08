@@ -28,7 +28,6 @@
 
 </div>
 
-
 <br />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joao-VitorSantos08&bg_color=000000&color=4169E1&line=4169E1&point=088c1a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -53,11 +52,19 @@
 
 
 ### 📚 Currently studying:
-![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)
 
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" />
+</p>
+
+- Spring MVC  
+- React Hooks & API Consumption
+
+  <br />
 
 ### ✅ Previously studied:
+![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)
 ![Banco de Dados](https://img.shields.io/badge/-Banco%20de%20Dados-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=Html5&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -65,7 +72,6 @@
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117&textColor=0D1117)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=Tailwind-CSS&labelColor=0D1117&textColor=0D1117)
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 
