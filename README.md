@@ -32,9 +32,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joao-VitorSantos08&bg_color=000000&color=4169E1&line=4169E1&point=088c1a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Joao-VitorSantos08&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Joao-VitorSantos08's GitHub Trophies" />
-</p>
+
 
 <div align="center">
   <p align="center">
